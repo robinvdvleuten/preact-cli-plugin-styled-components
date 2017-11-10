@@ -1,6 +1,6 @@
 {
   "name": "preact-cli-plugin-styled-components",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Adds the styled-components Babel plugin to Preact CLI",
   "license": "MIT",
   "author": "Robin van der Vleuten <robin@webstronauts.co>",
